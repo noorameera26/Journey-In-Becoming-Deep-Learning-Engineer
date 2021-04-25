@@ -1,5 +1,5 @@
 # CertifAI-Deep-Learning-in-Computer-Vision
-tldr: place where I can throw in all the notes and things that I gather on Machine Learning! 
+tldr: place where I can throw in all the bits and stuffs that I've gathered on Machine Learning! 
 
 Short introduction:
 - This repository was inspired by a fellow GitHub-er (@mbadry1) who created his own notes for the Machine Learning course by Stanford! Brilliant!
