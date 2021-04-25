@@ -7,4 +7,4 @@ Short introduction:
 - Throughout the entire program, I wrote some online notes which I jotted down during the lectures or through some (LOTS) of reading via medium articles, journals, video-watching (statsquest bam!) and the courses that are available on youtube (Stanford/Coursera/MIT). It is accessible at this link: https://docs.google.com/document/d/1ieZhUQqbngxEXA_acyPvqJDCuM_VfLfDyXiRj4kTeb4/edit
 
 Current progress:
-- Update (26/04): Current dig is the MIT course by the late Prof. Winston (sad to hear that he passed away)...thinking of ways to jot my notes here
+- Update (26/04): Current dig is the MIT course by the late Prof. Winston (sad to hear that he passed away)...thinking of ways to jot down my notes here
