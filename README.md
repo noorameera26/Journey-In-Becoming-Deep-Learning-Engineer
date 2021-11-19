@@ -1,4 +1,4 @@
-# CertifAI-Deep-Learning-in-Computer-Vision
+# Deep-Learning-in-Computer-Vision
 TLDR: place where I can throw in all the bits and stuff that I can gather on Machine Learning! 
 
 Short introduction:
